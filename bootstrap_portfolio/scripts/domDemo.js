@@ -3,7 +3,7 @@ console.log(document);
 function testTheDom() {
   // Add your test code here
   console.log('Testing the DOM...');
-
+//add
 
 var nodes = document.getElementsByTagName("li");
 console.log(nodes);
